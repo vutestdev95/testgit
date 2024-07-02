@@ -1,4 +1,4 @@
 const a = 1;
-if (a > 0) {
+if (a > 2) {
     console.log('a is positive');
 }
